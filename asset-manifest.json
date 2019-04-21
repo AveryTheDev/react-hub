@@ -1,0 +1,16 @@
+{
+  "main.css": "/react-hub/static/css/main.b50d0e2f.chunk.css",
+  "main.js": "/react-hub/static/js/main.4cc02544.chunk.js",
+  "main.js.map": "/react-hub/static/js/main.4cc02544.chunk.js.map",
+  "runtime~main.js": "/react-hub/static/js/runtime~main.e8898b95.js",
+  "runtime~main.js.map": "/react-hub/static/js/runtime~main.e8898b95.js.map",
+  "static/js/2.68e6ed9f.chunk.js": "/react-hub/static/js/2.68e6ed9f.chunk.js",
+  "static/js/2.68e6ed9f.chunk.js.map": "/react-hub/static/js/2.68e6ed9f.chunk.js.map",
+  "index.html": "/react-hub/index.html",
+  "precache-manifest.778316757a083e506b933c57970b7bf0.js": "/react-hub/precache-manifest.778316757a083e506b933c57970b7bf0.js",
+  "service-worker.js": "/react-hub/service-worker.js",
+  "static/css/main.b50d0e2f.chunk.css.map": "/react-hub/static/css/main.b50d0e2f.chunk.css.map",
+  "static/media/seasons.png": "/react-hub/static/media/seasons.8c52abaa.png",
+  "static/media/stock_photos.png": "/react-hub/static/media/stock_photos.a08063f9.png",
+  "static/media/youtube.png": "/react-hub/static/media/youtube.73f966e6.png"
+}
